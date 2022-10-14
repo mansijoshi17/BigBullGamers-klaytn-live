@@ -4,7 +4,7 @@ At BigBullGamers Players and Builders can 1) Create NFT Membership based Game st
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/107861211/174730767-87fb4a84-81c6-4673-a9a0-0b983ab364a1.png)
 
-### Contract on Klaytn baobab Testnet:
+### Contracts on Klaytn baobab Testnet:
 
 BigBullGamers Posts : https://baobab.scope.klaytn.com/account/0x5BbEBbcC4d81F186b64887b51aDc1ecE853826c7?tabId=txList
 
