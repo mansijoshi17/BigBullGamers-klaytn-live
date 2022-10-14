@@ -7,6 +7,7 @@
   "dependencies": {
     "@chainlink/contracts": "^0.3.1",
     "@coinbase/wallet-sdk": "^3.1.0",
+    "@emotion/styled": "^11.10.4",
     "@epnsproject/backend-sdk-staging": "^2.0.3",
     "@epnsproject/frontend-sdk-staging": "^1.8.1",
     "@faker-js/faker": "^6.3.1",
